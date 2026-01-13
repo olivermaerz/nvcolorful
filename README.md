@@ -11,6 +11,8 @@ That's when I thought: How cool would it be if the color of the RGB fans changes
 
 <img src="running_ollama.gif" alt="Running Ollama" height="240">
 
+*Demonstration: Prompting Ollama running DeepSeek R1. The three RGB fans transition from blue (idle) to red (high GPU utilization) as the model processes the request, then return to blue when the chat completes.*
+
 ## Features
 
 - Monitors GPU #0 (you can change the GPU # in the script)
