@@ -9,6 +9,7 @@ Two birds with one stone: When I built a PC to run LLMs/Ollama, I found the case
 
 That's when I thought: How cool would it be if the color of the RGB fans changes based on the utilization of the GPU? The fans show a steady deep blue when the GPU is at 0% usage, a steady dark red when it's fully used, and smoothly transitions between colors based on utilization.
 
+<img src="running_ollama.gif" alt="Running Ollama" height="240">
 
 ## Features
 
